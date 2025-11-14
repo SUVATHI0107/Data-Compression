@@ -28,7 +28,10 @@ The project includes:
 
 ## Project Structure
 • actf.py → proposed ACTF algorithm
+
 • chimp.py → chimp compression + decompression
+
 • gorilla.py → gorilla compression + decompression
+
 • comparison.py → compares ACTF, Chimp, Gorilla
 
